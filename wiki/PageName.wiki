@@ -1,0 +1,14 @@
+#summary How-to use.
+
+= Introduction =
+
+Processing library for capturing from PS3 Eye. You will need PS3 Eye drivers for Windows from AlexP.
+
+= Details =
+
+1. First install Win32 drivers for PS3 Eye camera. You can get latest version from AlexP blog - http://www.alexpopovich.com/blog/2008/10/02/sony-ps3eye-camera-directshow-capture-source-filter/
+
+2. Copy *PS3EyeLib.dll* from you _/Program Files/AlexP/_ folder to _/windows/system32/_ or any other folder listed in you %PATH%.
+
+3. Extract zip to *libraries* folder.
+
